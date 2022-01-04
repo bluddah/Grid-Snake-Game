@@ -1,2 +1,0 @@
-# thesnakegame
- Simple snake game
